@@ -2,6 +2,7 @@ This project uses Principal Component Analysis (PCA) for dimensionality reductio
 
 The main objective is to identify clusters of countries with similar development profiles to better target financial aid, policy interventions, and global resource allocation.
 ⚙️ Methods & Models Used
+
 	1.	Exploratory Data Analysis (EDA) 🔍
 	•	Distribution, correlation, outlier detection
 	•	SweetViz & Seaborn visualizations
